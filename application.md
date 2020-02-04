@@ -2,9 +2,9 @@
 
 ## Why does your org want to participate in GSoC?
 
-The Ruby org provides an umbrella org for both the open source Ruby programming language and for numerous developer tools, ruby libraries, and other projects written in Ruby.
-We want to participate in order to grow the Ruby open source development and community by helping students get involved. In turn, students develop their programming and project management skills, and see how their work helps other members do more in the Ruby community.
-We also provide a space for different parts of the Ruby ecosystem with various challenges to come together and collaborate, and provide the opportunity for students to participate in a wider community and diverse set of projects than a single software project.
+The Ruby org provides an umbrella org for both the open source Ruby programming language and for numerous developer tools, libraries, and other projects written in Ruby.
+We want to participate in order to grow the Ruby open source development community and help students get involved in open source. Students will get to develop their programming and project management skills, meet other people, and see how their work helps others in the Ruby community.
+We also provide a space for different parts of the Ruby ecosystem with various challenges to come together and collaborate, and provide the opportunity for students to participate in a wider community and diverse set of projects than in a single software project.
 
 ## How many potential mentors have agreed to mentor this year?
 
@@ -22,20 +22,19 @@ We also have weekly group meetings that students and mentors attend to share the
 ## How will you help your students stay on schedule to complete their projects?
 
 Mentors will evaluate daily and weekly progress and guide their students focus on completing the most important parts of their projects by providing them with context, navigating large codebases, brainstorming solutions, etc.
-Additionally, mentors will adjust the project scope based on the students ability and progress, by starting with minimum viable feature implementations and then if time allows expand to building out more features. This way the student is not overwhelmed during the development and will be happy they accomplished a full implementation by end of the summer.
+Additionally, mentors will adjust the project scope based on the students ability and progress, by starting with minimum viable feature implementations and then if time allows, expand to building out more features. This way the student is not overwhelmed during the development and will be happy they accomplished a full implementation by end of the summer.
 
 ## How will you get your students involved in your community during GSoC?
 
-We have a GSoC slack channel that students and mentors can join prior to submitting their applications to learn more about the projects and each other.
-Mentors, students, and other contributors are all available to the students from the community bonding period onwards. In the past, we do a weekly meeting with everyone so each student can share with others about the work they are doing and promote collaboration. 
-We expect students to spend that time exploring the codebase they'll be working in.
+We have a GSoC slack channel that students and mentors can join prior to submitting their applications to learn more about the projects and each other. We expect students to spend that time exploring the codebase they'll be working in.
+Mentors, students, and other contributors are all available to the students from the community bonding period onwards. In the past, we do a weekly meeting with everyone so each student can share with others about the work they are doing and promote cross collaboration. 
 Students are expected to work like any other open source contributor, and experience that responsibility.
 
 ## How will you keep your students involved in your community after GSoC?
 
 We do our best to get students work merged upstream before the end of the summer, giving them a sense of pride and accomplishment with their work on the project.
-Students are encouraged to take on other open feature development for the project they worked on or any other Ruby project they desire. We have a open Slack channel where they know they can reach out to for help. 
-We found that because they've spent a summer acting as a maintainer for a project, they're able to continue contributing as members of the community.
+Students are encouraged to take on other open feature development for the project they worked on or any other Ruby project they desire. We have a open Slack channel where they know they can reach out to for help, ask questions, and get connected to other maintainers. 
+We found that because they've spent a summer acting as a contributor for a project, they're able to continue contributing as members of the community.
 
 ## Has your org been accepted as a mentor org in GSoC before?
 
